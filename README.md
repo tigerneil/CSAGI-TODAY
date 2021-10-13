@@ -1,3 +1,3 @@
 # CSAGI-TODAY
 ## Technology
-- [Reinforcement Learning Today](reinforcementlearning.today)
+- [Reinforcement Learning Today](http://reinforcementlearning.today)
